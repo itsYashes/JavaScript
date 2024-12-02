@@ -19,3 +19,4 @@ let setNumber = 33
 let stringNumber = String(setNumber)
 console.log(typeof stringNumber);
 
+ignore
