@@ -6,5 +6,6 @@
 })();
 
 ( (name) => {
+    // Unnamed IIFE
     console.log(`DB CONNECTED 2 ${name}`);
 } )('Yashas')
